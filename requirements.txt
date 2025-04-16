@@ -1,0 +1,8 @@
+openai
+pandas
+faiss-cpu
+flask
+streamlit
+python-dotenv
+scikit-learn
+tqdm
